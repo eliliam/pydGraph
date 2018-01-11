@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: pydgraph
+Version: 0.1.0
+Summary: A Python package to easily work with graphs
+Home-page: github.com/eliliam/pydGraph
+Author: Eli Smith
+Author-email: eli.liam.smith@gmail.com
+License: UNKNOWN
+Description: ### pydGraph
+        
+        pydGraph is a library created to work with graphs as easily as possible, it allows users to build their own graphs
+        without much overhead and enables users to apply different algorithms to their graphs. This library was created using
+        the networkx library as a baseplate, allowing users to call those functions on the graph as well.
+Keywords: graphs networkx pathfinding
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Graphs
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
